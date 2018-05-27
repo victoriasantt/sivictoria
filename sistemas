@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: #2377F4;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>SISTEMA DE INFORMAÇÃO</h1>
+</header>
+  
+<nav>
+  <ul>
+    <li><a href="curriculo.html">CURRICULO</a></li>
+    <li><a href="tabelaiso.html">TABELA ISO 9241</a></li>
+    <li><a href="ementa.html">EMENTA</a></li>
+	<li><a href="email.html">E-MAIL</a></li>
+  </ul>
+</nav>
+
+<article>
+  <h1>Curriculo</h1>
+  <h2><p>Victória Emília Fernandes e Silva Santos</p></h2>
+<p>brasileira-solteira, 19 Anos.</p>
+<p>Rua João gomes Cardoso, nº: 400 – Eldorado – Contagem-MG
+CEP: 32315-030</p> 
+<p>tel. res. (31) 3395-1334 cel. (31) 99152-1188</P>
+<p>E-mail:<a href="mailto:victoria.fss21@gmail.com">victoria.fss21@gmail.com</a></p>
+
+<h2>OBJETIVO</h2>
+<p>Procuro uma efetivação no mercado para colocar em prática o que já aprendi
+ao longo do meu tempo como profissional, desenvolvendo minhas habilidades
+e contribuindo para o crescimento da empresa.</p>
+
+<h2>CONHECIMENTOS GERAIS</h2>
+<p>Atendimento telefônico, organização de arquivos, planilhas relacionados a
+compras e estoques de mercadorias, emissão de notas fiscais e conhecimento
+do Word, Excel, Windows, Internet, Power Point.</p>
+
+<h2>FORMAÇÃO ESCOLAR</h2>
+<p>Ensino Médio completo.<p/>
+<h2>CURSO EXTRACURRICULAR</h2>
+<p><b> PERFIL PROFISSIONAL:</b> Noções Básicas de auxiliar administrativo</p>
+ <p><b>ENTIDADE:</b> Instituição Ramacrisna</p>
+<p><b>Período de:</b> 12/05/2015 a 26/06/2015<p/>
+
+<h2>EXPERIÊNCIA PROFISSIONAL</h2>
+<p><b>EMPRESA:</b> TRANSPES- TRANSPORTES PESADOS MINAS</P>
+<p><b>CARGO:</b> Aprendiz de assistente administrativo</p>
+<p><b>ADMISSÃO:</b> 11/01/2016 a 20/04/2017</p>
+<p><b>FUNÇÕES EXERCIDAS:</b> experiência em funções administrativas como
+controle de compras e estoque de produtos, conhecimento em emissão
+de notas. Na área da qualidade acompanhando procedimentos e
+regularização de normas e procedimentos. No setor de Departamento
+pessoal organizando e monitorando documentações pendentes e
+benefícios relacionados aos funcionários.</p>
+</article>
+
+<footer>Trabalho de IHC feito por Victória Emília Fernandes e Silva Santos.  </footer>
+
+</div>
+
+</body>
+</html>
